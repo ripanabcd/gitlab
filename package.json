@@ -1,9 +1,9 @@
 {
   "name": "gitlab-os-app",
   "version": "1.0.0",
-  "main": "os.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node os.js"
+    "start": "node app.js"
   },
   "dependencies": {}
 }
